@@ -1,12 +1,72 @@
-# React + Vite
+# 🎮 Valorant Accessories App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern frontend web application inspired by **Valorant**, designed to explore in-game content such as **Agents, Weapons, Maps, and Accessories** through a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 https://valorant-accessories-frontend.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Overview
+
+The Valorant Accessories App provides a visually rich interface for browsing Valorant-related content.  
+It focuses on **UI clarity, smooth navigation, and component-based design**, making it ideal as a frontend portfolio project.
+
+This project demonstrates:
+- Clean React component structure
+- Responsive layouts
+- Game-themed UI design
+- Scalable folder organization
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](photos/home.png)
+
+### 🔫 Weapons
+![Weapons Page](photos/weapons.png)
+
+### 🧍 Agents
+![Agents Page](photos/agents.png)
+
+### 🗺 Maps
+![Maps Page](photos/maps.png)
+
+
+
+---
+
+## 🚀 Features
+
+- 🎮 Valorant-themed modern UI
+- 🧍 Browse Agents with detailed visuals
+- 🔫 Explore Weapons collection
+- 🗺 View Maps with clean layout
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight frontend
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS / Tailwind CSS**
+- **Springboot**
+- **Docker**
+- **Vercel** (Deployment)
+
+
+
+
+
+
+
+
+
